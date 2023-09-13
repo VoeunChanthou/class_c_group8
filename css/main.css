@@ -76,7 +76,7 @@ ul li a:hover {
     text-align: center;
 }
 .serve-one {
-    background: url('https://cdn.pixabay.com/photo/2018/01/15/07/51/woman-3083378_960_720.jpg');
+    background: url(https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80);
     background-size: cover;
     height: 40vh;
     display: flex;
@@ -134,7 +134,7 @@ ul li a:hover {
 .btn {
     width: 200px;
     padding: 16px;
-    background: rgba(5, 197, 255, 0.7);
+    background: rgba(233, 106, 27, 0.7);
     text-transform: uppercase;
     font-size: 14px;
     outline: none;
