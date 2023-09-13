@@ -4,7 +4,7 @@ body {
     font-family: sans-serif;
 }
 .header-web {
-    background: url('https://cdn.pixabay.com/photo/2015/11/26/22/28/girl-1064664_960_720.jpg');
+    background: url('https://images.hdqwalls.com/wallpapers/gamer-zone-4k-9u.jpg');
     background-size: cover;
     background-position: center -200px;
     height: 50vh;
@@ -14,7 +14,7 @@ body {
     height: 50vh;
 }
 nav {
-    
+    background: #2dc0c585;
 }
 
 ul {
